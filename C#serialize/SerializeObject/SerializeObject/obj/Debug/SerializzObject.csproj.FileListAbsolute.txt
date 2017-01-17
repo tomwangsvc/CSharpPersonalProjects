@@ -1,0 +1,6 @@
+H:\C#serialize\SerializzObject\SerializzObject\bin\Debug\SerializzObject.exe.config
+H:\C#serialize\SerializzObject\SerializzObject\bin\Debug\SerializzObject.exe
+H:\C#serialize\SerializzObject\SerializzObject\bin\Debug\SerializzObject.pdb
+H:\C#serialize\SerializzObject\SerializzObject\obj\Debug\SerializzObject.csprojResolveAssemblyReference.cache
+H:\C#serialize\SerializzObject\SerializzObject\obj\Debug\SerializzObject.exe
+H:\C#serialize\SerializzObject\SerializzObject\obj\Debug\SerializzObject.pdb

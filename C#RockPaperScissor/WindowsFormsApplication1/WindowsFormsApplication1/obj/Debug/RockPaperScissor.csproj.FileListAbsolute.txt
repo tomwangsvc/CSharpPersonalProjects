@@ -1,0 +1,9 @@
+H:\C#RockPaperScissor\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+H:\C#RockPaperScissor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+H:\C#RockPaperScissor\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+H:\C#RockPaperScissor\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+H:\C#RockPaperScissor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RockPaperScissor.csprojResolveAssemblyReference.cache
+H:\C#RockPaperScissor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+H:\C#RockPaperScissor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\C#RockPaperScissor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RockPaperScissor.csproj.GenerateResource.Cache
+H:\C#RockPaperScissor\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

@@ -1,0 +1,12 @@
+H:\C#MusicPlayer\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+H:\C#MusicPlayer\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe
+H:\C#MusicPlayer\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.pdb
+H:\C#MusicPlayer\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csprojResolveAssemblyReference.cache
+H:\C#MusicPlayer\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Form1.resources
+H:\C#MusicPlayer\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+H:\C#MusicPlayer\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.Cache
+H:\C#MusicPlayer\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+H:\C#MusicPlayer\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb
+H:\C#SelfTaughtProjects\C#MusicPlayer\MusicPlayer\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+H:\C#SelfTaughtProjects\C#MusicPlayer\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.exe
+H:\C#SelfTaughtProjects\C#MusicPlayer\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.pdb

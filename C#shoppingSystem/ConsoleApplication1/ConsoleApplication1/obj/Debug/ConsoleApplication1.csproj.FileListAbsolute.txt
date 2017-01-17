@@ -1,0 +1,6 @@
+H:\C#shoppingSystem\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+H:\C#shoppingSystem\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+H:\C#shoppingSystem\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+H:\C#shoppingSystem\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+H:\C#shoppingSystem\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+H:\C#shoppingSystem\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

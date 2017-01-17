@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupermarketSystem", "ConsoleApplication1\SupermarketSystem.csproj", "{BD4B95BC-3A0E-4E48-8679-80D8782C4CC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotebookWinform", "..\..\C#NotebookWinform\NotebookWinform\NotebookWinform\NotebookWinform.csproj", "{EE7801F5-62A6-4734-9C74-7D399844ADAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lotto", "..\..\C#Lotto\Lotto\Lotto\Lotto.csproj", "{4D8CEFD6-EFB5-41AB-9BA4-7ACEA0BC20F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicPlayer", "..\..\C#MusicPlayer\MusicPlayer\MusicPlayer\MusicPlayer.csproj", "{AE77A997-9ED3-4223-804F-3D634EF18D65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockPaperScissor", "..\..\C#RockPaperScissor\WindowsFormsApplication1\WindowsFormsApplication1\RockPaperScissor.csproj", "{DE0166D9-400D-4798-8942-507D8479B451}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializeObject", "..\..\C#serialize\SerializeObject\SerializeObject\SerializeObject.csproj", "{AFA56257-2DE7-451A-A11E-2ECF0C7D8437}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD4B95BC-3A0E-4E48-8679-80D8782C4CC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD4B95BC-3A0E-4E48-8679-80D8782C4CC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD4B95BC-3A0E-4E48-8679-80D8782C4CC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD4B95BC-3A0E-4E48-8679-80D8782C4CC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE7801F5-62A6-4734-9C74-7D399844ADAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE7801F5-62A6-4734-9C74-7D399844ADAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE7801F5-62A6-4734-9C74-7D399844ADAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE7801F5-62A6-4734-9C74-7D399844ADAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D8CEFD6-EFB5-41AB-9BA4-7ACEA0BC20F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D8CEFD6-EFB5-41AB-9BA4-7ACEA0BC20F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D8CEFD6-EFB5-41AB-9BA4-7ACEA0BC20F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D8CEFD6-EFB5-41AB-9BA4-7ACEA0BC20F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE77A997-9ED3-4223-804F-3D634EF18D65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE77A997-9ED3-4223-804F-3D634EF18D65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE77A997-9ED3-4223-804F-3D634EF18D65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE77A997-9ED3-4223-804F-3D634EF18D65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE0166D9-400D-4798-8942-507D8479B451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE0166D9-400D-4798-8942-507D8479B451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE0166D9-400D-4798-8942-507D8479B451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE0166D9-400D-4798-8942-507D8479B451}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFA56257-2DE7-451A-A11E-2ECF0C7D8437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFA56257-2DE7-451A-A11E-2ECF0C7D8437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFA56257-2DE7-451A-A11E-2ECF0C7D8437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFA56257-2DE7-451A-A11E-2ECF0C7D8437}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

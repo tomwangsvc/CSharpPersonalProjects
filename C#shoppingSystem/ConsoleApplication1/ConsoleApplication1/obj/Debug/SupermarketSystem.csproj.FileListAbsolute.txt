@@ -1,0 +1,5 @@
+H:\C#SelfTaughtProjects\C#shoppingSystem\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+H:\C#SelfTaughtProjects\C#shoppingSystem\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+H:\C#SelfTaughtProjects\C#shoppingSystem\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+H:\C#SelfTaughtProjects\C#shoppingSystem\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+H:\C#SelfTaughtProjects\C#shoppingSystem\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb

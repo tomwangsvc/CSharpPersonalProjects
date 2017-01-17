@@ -1,0 +1,9 @@
+H:\C#Lotto\Lotto\Lotto\bin\Debug\Lotto.exe.config
+H:\C#Lotto\Lotto\Lotto\bin\Debug\Lotto.exe
+H:\C#Lotto\Lotto\Lotto\bin\Debug\Lotto.pdb
+H:\C#Lotto\Lotto\Lotto\obj\Debug\Lotto.csprojResolveAssemblyReference.cache
+H:\C#Lotto\Lotto\Lotto\obj\Debug\Lotto.Form1.resources
+H:\C#Lotto\Lotto\Lotto\obj\Debug\Lotto.Properties.Resources.resources
+H:\C#Lotto\Lotto\Lotto\obj\Debug\Lotto.csproj.GenerateResource.Cache
+H:\C#Lotto\Lotto\Lotto\obj\Debug\Lotto.exe
+H:\C#Lotto\Lotto\Lotto\obj\Debug\Lotto.pdb
